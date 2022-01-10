@@ -1,0 +1,7 @@
+Para verificar que esta corriendo node.js y cual es la version
+
+node -v 
+
+node --version 
+
+

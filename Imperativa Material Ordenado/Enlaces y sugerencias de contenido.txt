@@ -1,0 +1,69 @@
+
+
+GUIA DE ENLACES HECHA POR EL PROFE https://docs.google.com/document/d/1BH5J3ut6BmG18S9vWtRoDW8rn-X2a9za0RmWpRLsh_s/edit#
+
+
+
+Teoria del profe clase a clase  https://drive.google.com/drive/u/0/folders/1ruFZVuZObhPiYJyDTOuaEtAIMVRfVg2R
+
+Usar var, let o const? https://www.youtube.com/watch?v=bvkY9ey83yY&t=22s
+
+Callbacks https://www.freecodecamp.org/espanol/news/que-es-una-funcion-callback-javascript/#funciones-callback
+Nota: NO estaremos cubriendo en esta materia el concepto de asincronismo 
+(porque veran al buscar sobre callbacks que este concepto se menciona) ,
+ pero no se estresen con eso por el momento, sólo entender cómo funciona un callback.
+
+Arrow: https://ed.team/blog/arrow-functions-en-javascript
+
+
+Teoria de map() , reduce(), filter() find, foreach
+https://medium.com/@jmoran.losada/javascript-map-reduce-filter-find-foreach-cómo-utilizarlos-y-sus-diferencias-e0e078646d11
+
+
+SLICE()
+https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array/slice
+
+SPLICE()
+https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array/splice
+
+FIND()
+https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array/find
+
+
+SLICE VS SPLICE
+https://www.freecodecamp.org/espanol/news/avascript-array-slice-vs-splice-the-difference-explained-with-cake/
+
+
+https://res.cloudinary.com/practicaldev/image/fetch/s--fNviLWIj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/8d0r07xdvrs91zd486xb.png
+
+https://pbs.twimg.com/media/EWW4KVEXYAAd6u7.jpg
+
+
+FIND VS FILTER()
+https://dev.to/khush/find-vs-filter-2528
+
+
+SORT Y RREVERSE
+https://desarrolloweb.com/articulos/ordenacion-arrays-javascript-sort
+
+
+Tabla unicode
+https://www.rapidtables.org/code/text/unicode-characters.html
+
+
+
+
+Funciones Flecha
+https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Functions/Arrow_functions
+
+
+CHALLENGES NAVIDEñOS
+
+
+https://adventofcode.com
+https://www.adventofjs.com
+https://github.com/devadvent/readme
+https://adventjs.dev
+
+
+
